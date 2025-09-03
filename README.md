@@ -1,4 +1,4 @@
-# gemini-prompt
+# gemini-prompts
 <img width="1124" height="1124" alt="Image" src="https://github.com/user-attachments/assets/651fe68d-449f-4e02-a123-60f85668b5c5" />
 # توضیحات
 
